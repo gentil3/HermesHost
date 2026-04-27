@@ -74,7 +74,7 @@ export default function Home() {
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Link href="#pricing">
               <Button size="lg" className="shadow-xl shadow-violet-500/30 min-w-[180px]">
-                Start for $19/mo
+                Start for $9/mo
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
@@ -183,7 +183,7 @@ export default function Home() {
           <div className="mt-8">
             <Link href="#pricing">
               <Button size="lg" className="shadow-xl shadow-violet-500/30">
-                Deploy Now — From $19/mo
+                Deploy Now — From $9/mo
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
